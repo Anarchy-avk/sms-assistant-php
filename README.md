@@ -1,6 +1,6 @@
 [![StyleCI](https://styleci.io/repos/69090570/shield?style=flat)](https://styleci.io/repos/69090570)
 
-# sms-assistent.by API PHP wrapper
+# sms-assistent.by API PHP wrapper Test
 
 This library can be used to send messages via [sms-assistent.by](http://sms-assistent.by) site.
 
